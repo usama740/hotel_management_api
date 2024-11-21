@@ -1,6 +1,7 @@
-env/
-*.pyc
-__pycache__/
-db.sqlite3
-.env
-.idea/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
